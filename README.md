@@ -7,7 +7,7 @@
 [![Dependencies][david-dm-src]][david-dm-href]
 [![Standard JS][standard-js-src]][standard-js-href]
 
-> Leverage `vue-multiselect`.
+> Leverage [`vue-multiselect`](https://vue-multiselect.js.org/).
 
 [📖 **Release Notes**](./CHANGELOG.md)
 

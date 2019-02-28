@@ -20,11 +20,7 @@
 ```js
 {
   modules: [
-    // Simple usage
-    'nuxt-vue-multiselect',
-
-    // With options
-    ['nuxt-vue-multiselect', { /* module options */ }]
+    'nuxt-vue-multiselect'
   ]
 }
 ```
